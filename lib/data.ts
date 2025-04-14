@@ -47,17 +47,17 @@ export const links = [
 export const educationData=[
   {
     title: "Jawahar Navodaya Vidyalaya",
-    location: "Tumkur, India",
+    location: "Tumkur, Karnataka, India",
     description:
-      "I completed my schooling from Jawahar Navodaya Vidyalaya, Tumkur. I was a student of science stream.",
+      "I completed my schooling from Jawahar Navodaya Vidyalaya, Tumkur. I was a student of Science stream actively engaging in Research.",
     icon: React.createElement(LuGraduationCap),
     date: "2016-2023",
   },
   {
     title: "Vellore Institute of Technology-AP",
-    location: "Amaravati, India",
+    location: "Amaravati, Andhra Pradesh, India",
     description:
-      "Currently pursuing my B.Tech in Computer Science and Engineering. I am a 2nd year student.",
+      "Currently pursuing my B.Tech in Computer Science and Engineering. Actively exploring real-world applications of Competitive Programming, AI/ML, Software Development and App Development.",
     icon: React.createElement(LuGraduationCap),
     date: "2023-2027",
   },
@@ -98,7 +98,7 @@ export const projectsData = [
     imageUrl: lungImg,
   },
   {
-    title: "Swasta – Connecting Farmers to Consumers",
+    title: "Swasta – A 360° Farmer App",
     description:
       "Built a full-stack platform with AI-powered crop quality and disease detection, enabling direct farmer-consumer interaction.",
     tags: ["Python", "TensorFlow", "Flutter", "Dart", "Firebase","Kaggle","NumPy"],
