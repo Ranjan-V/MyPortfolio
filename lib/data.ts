@@ -66,14 +66,6 @@ export const educationData=[
 export const experiencesData = [
  
   {
-    title: "Competitive Programming Question Designer",
-    location: "Navigate Labs(Remote)",
-    description:
-      "Designing and developing challenging competitive programming questions, focusing on diverse algorithms and data structures, with optimized solutions and multiple approaches for quality and reliability.",
-    icon: React.createElement(FaLaptopCode),
-    date: "2025 - 2025",
-  },
-  {
     title:"AI Model Reviewer Intern",
     location:"Examdojo(Remote)",
     description:"Contributing to Examdojo EdTech platform by reviewing and solving AI-generated questions in subjects like math and physics. Helping improve the accuracy and reliability of their educational AI systems.",
