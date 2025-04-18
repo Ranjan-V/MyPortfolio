@@ -129,5 +129,5 @@ export const projectsData = [
 ] as const;
 
 export const skillsData = [
-  "Python", "Java", "SQL","C++", "Flutter", "Firebase", "TensorFlow", "Data Analysis", "Scikit-learn",  "Algorithmic Trading", "Quantitative Analysis", "Risk Management"," MATLAB", "Git", "GitHub", "SQL", "Firebase", "Image Optimization Techniques", "Team Leadership", "Problem-Solving"
+  "Python", "Java", "SQL","C++", "Flutter", "Firebase", "TensorFlow", "Data Analysis", "Scikit-learn",  "Algorithmic Trading", "Quantitative Analysis", "Risk Management"," MATLAB", "Git", "GitHub", "Image Optimization Techniques", "Team Leadership", "Problem-Solving"
 ] as const;
