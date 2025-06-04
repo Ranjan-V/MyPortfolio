@@ -1,30 +1,36 @@
-[![Watch tutorial here](https://img.youtube.com/vi/sUKptmUVIBM/0.jpg)](https://youtu.be/sUKptmUVIBM)
+# Portfolio Website
 
-# [Watch video here](https://youtu.be/sUKptmUVIBM)
+Welcome to my personal portfolio website! This site showcases my skills, projects, experience, and contact information.
 
-## What you will learn
+## About Me
 
-- Latest Next.js 13 features
-- Next.js App Router
-- Next.js Server Actions
-- Client & Server Components
-- TypeScript (Beginner & Intermediate)
+I am Ranjan, a passionate competitive programmer and software developer with expertise in C++, Python, Java, and SQL. I have achieved top ranks on platforms like CodeChef, LeetCode, and HackerRank, consistently ranking among the top 0.25% globally. I also run a YouTube channel, **Code With Ranjan**, focused on competitive programming and coding tutorials.
+
+## Features
+
+- Responsive design optimized for all devices
+- Showcases my competitive programming achievements and coding projects
+- Detailed skills section highlighting C++, Python, Java, SQL, and problem solving
+- Links to my top competitive profiles and YouTube channel
+- Contact form for easy communication
+
+## Technologies Used
+
+- React
 - Tailwind CSS
-- Context API
-- Advanced Animations with Framer Motion
-- React.Email & Resend
-- Custom React hooks
-- Fresh, modern UI design
-- Light & Dark mode
-- Responsive website
+- Next.js
 
-## Important
+## Installation and Setup
 
-If you want to be a professional developer, you have to know the fundamentals like JavaScript and CSS really well. I highly recommend you go through my [Professional JavaScript](https://bytegrad.com/courses/professional-javascript) and [Professional CSS](https://bytegrad.com/courses/professional-css) courses.
+1. Clone the repository  
+   git clone https://github.com/Ranjan-V/portfolio-website.git
 
-I'm close to releasing a complete React & Next.js course. Get on the email list to receive early-bird pricing: [link](https://email.bytegrad.com/).
+2. Navigate to the project directory
+cd portfolio-website
 
-## Setup
+3. Install dependencies (if any)
+npm install
 
-1. Add RESEND_API_KEY environment variable in .env.local
-2. In the send-email.ts action file, change the "to" email to your own email
+4. Run the development server
+npm run dev
+Open http://localhost:3000 to view the website in your browser.
