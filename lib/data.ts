@@ -88,10 +88,10 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "Legal Analyser",
+    title: "Microstructure Alpha: Order Flow Imbalance",
     description:
       " Developed a Level-2 order book system achieving an IC of 0.12 on 100GB+ of tick data, maintaining profitability after 5bps fees.",    
-    tags: ["Python", "Asyncio", "XG Boost", "Scikit-learn", "Flask","Pandas", "Web Sockets", "Market Microstructure"],
+    tags: ["Python", "Asyncio", "XG Boost", "Scikit-learn", "Flask","Pandas", "Market Microstructure"],
     imageUrl: ofiImg,
     githubUrl: "https://github.com/Ranjan-V/MicrostructureAlphaEngine-Order_Flow_Imbalance_Strategy",
   },
